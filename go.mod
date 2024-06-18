@@ -1,3 +1,3 @@
-module banking
+module github.com/luismiguel010/banking
 
-go 1.21
+go 1.21.4
